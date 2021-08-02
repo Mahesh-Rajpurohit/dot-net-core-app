@@ -1,16 +1,16 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: mahesh-dotnet_core_app
+  name: mahesh-dotnet-core-app
 spec:
   replicas: 3
   selector:
     matchLabels:
-      app: mahesh-dotnet_core_app
+      app: mahesh-dotnet-core-app
   template:
     metadata:
       labels:
-        app: mahesh-dotnet_core_app
+        app: mahesh-dotnet-core-app
     spec:
       containers:
         - name: dotnetapp
@@ -24,11 +24,11 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: mahesh-dotnet_core_app
+  name: mahesh-dotnet-core-app
 spec:
   type: NodePort
   ports:
     - port: 80
       targetPort: 8080
   selector:
-    app: mahesh-dotnet_core_app
+    app: mahesh-dotnet-core-app
