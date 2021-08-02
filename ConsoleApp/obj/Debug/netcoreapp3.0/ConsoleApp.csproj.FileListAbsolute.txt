@@ -1,0 +1,13 @@
+C:\Mahesh\Presentation\dotnet_core_app\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.exe
+C:\Mahesh\Presentation\dotnet_core_app\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.deps.json
+C:\Mahesh\Presentation\dotnet_core_app\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.runtimeconfig.json
+C:\Mahesh\Presentation\dotnet_core_app\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.runtimeconfig.dev.json
+C:\Mahesh\Presentation\dotnet_core_app\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.dll
+C:\Mahesh\Presentation\dotnet_core_app\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.pdb
+C:\Mahesh\Presentation\dotnet_core_app\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.csprojAssemblyReference.cache
+C:\Mahesh\Presentation\dotnet_core_app\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Mahesh\Presentation\dotnet_core_app\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.AssemblyInfo.cs
+C:\Mahesh\Presentation\dotnet_core_app\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Mahesh\Presentation\dotnet_core_app\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.dll
+C:\Mahesh\Presentation\dotnet_core_app\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.pdb
+C:\Mahesh\Presentation\dotnet_core_app\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.genruntimeconfig.cache
